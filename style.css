@@ -1,6 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Spartan:wght@100;200;300;400;500;600;700;800;900&display=swap");
 
-
 * {
   padding: 0;
   margin: 0;
@@ -53,7 +52,7 @@ body {
 
 .name {
   font-size: 2rem;
-  color: #111;
+  color: #1a1a1a;
   text-align: center;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -62,7 +61,7 @@ body {
 
 .career {
   font-size: 1.2rem;
-  color: #111;
+  color: #1a1a1a;
   text-align: center;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -90,8 +89,7 @@ body {
 .contact-info ul li i {
   padding-right: 1rem;
   font-size: 1.2rem;
-  color: #1a1a1a
-  ;
+  color: #1a1a1a;
 }
 
 .skills-section ul {
@@ -106,7 +104,7 @@ body {
 .progress-bar {
   width: 100%;
   height: 0.4rem;
-  background-color: #ffffff98;
+  background-color: #ffffff36;
   position: relative;
   border-radius: 12px;
 }
@@ -127,10 +125,10 @@ body {
   width: 80%;
 }
 .c-progress {
-  width: 80%;
+  width: 90%;
 }
 .n-progress {
-  width: 80%;
+  width: 100%;
 }
 .w-progress {
   width: 80%;
@@ -138,7 +136,7 @@ body {
 
 .skill-title {
   text-transform: uppercase;
-  color: #111;
+  color: #1a1a1a;
   font-size: 1rem;
 }
 
@@ -146,22 +144,22 @@ body {
   padding-top: 2rem;
   font-size: 1.2rem;
   text-transform: uppercase;
-  color: #088178;
+  color: #1a1a1a;
 }
 
 .sub-para {
-  color: #ccc;
+  color: #1a1a1a;
   padding: 0.4rem 0;
 }
 
 .references-section li {
-  color: #ccc;
+  color: #1a1a1a;
   padding: 0.2rem 0;
 }
 .references-section li i {
   padding-right: 0.5rem;
   font-size: 1.2rem;
-  color: #088178;
+  color: #1a1a1a;
 }
 
 .right-main-content {
